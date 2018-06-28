@@ -23,3 +23,4 @@ def add(request):
 
     return HttpResponseRedirect('/emaillist')
     #return render(request, 'success.html')
+
